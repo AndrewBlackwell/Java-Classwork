@@ -2,7 +2,7 @@ package solution;
 
 /**
  * @author Andrew Blackwell
- * @version 2.23.23
+ * @version 3.05.2023
  */
 
 public class DoubleArraySeq implements Cloneable 
